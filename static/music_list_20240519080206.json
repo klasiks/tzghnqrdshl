@@ -7,20 +7,7 @@
         "creatorAvatar": "images/avatar.jpg",
         "item": [
             {
-                "id": "02b8ab82249460eb0832b74d23dd7c14",
-                "name": "1",
-                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
-                "album": "توزىغان قۇرداشلار 1 قىسىم ھىكايە",
-                "url": "static/Tozighan Qordashlar/1.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "02b8ab82249460eb0832b74d23dd7c14",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "5a7272d2f59ec6f77ae353e27ab07e98",
+                "id": "eac7f010b243a929f1684dfdadacebf0",
                 "name": "2",
                 "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
                 "album": "توزىغان قۇرداشلار ھىكايە 2 قىسىم تۈگىدى",
@@ -28,7 +15,20 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "5a7272d2f59ec6f77ae353e27ab07e98",
+                "url_id": "eac7f010b243a929f1684dfdadacebf0",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "84e806fd07bad4caddeaa13bdbc69c33",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "توزىغان قۇرداشلار 1 قىسىم ھىكايە",
+                "url": "static/Tozighan Qordashlar/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "84e806fd07bad4caddeaa13bdbc69c33",
                 "pic_id": "",
                 "lyric_id": ""
             }
